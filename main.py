@@ -1,4 +1,4 @@
-def StartScherm():
+def StartScherm2():
   pass
 def LevelOne():
   pass
